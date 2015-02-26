@@ -15,6 +15,7 @@ set virtualedit=all
 set nowrap
 set ignorecase
 set hlsearch
+set autochdir
 
 " Reselect visual block after indent
 vnoremap < <gv
